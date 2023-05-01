@@ -1,6 +1,6 @@
 # vinomars
 ## Beginners guide to Glasp
-This article gives a brief overview of what Glasp is and some of its basic and most advanced feature.
+This article gives a brief overview on Glasp and some of its basic and most advanced feature.
 
 Glasp lets you highlight  all kinds of web articles on the spot. it does not use a reader view and thus allows the highlighted text to preserve the original article formatting.
 In addition, you can also highlight **PDF** files and **YouTube** transcripts.
